@@ -3,3 +3,7 @@
 |*Day*|*Question*|*Solution*|*Difficuilty*|
 |:----:|:-------|:--------:|:---------:|
 |1| [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/1.detect-capital.cpp)|Easy|
+|2| [TBD]()|[`C++`]()|TBD|
+|3| [TBD]()|[`C++`]()|TBD|
+|4| [TBD]()|[`C++`]()|TBD|
+|5| [TBD]()|[`C++`]()|TBD|
