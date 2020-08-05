@@ -7,4 +7,4 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |2| [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/2.design-hashset.cpp)|Easy|
 |3| [Valid Palindrome](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/3.valid-palindrome.cpp)|Easy|
 |4| [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/4.power-of-four.cpp)|Easy|
-|5| [TBD]()|[`C++`]()|TBD|
+|5| [Add and Search Word - Data structure design](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/)|[`C++`]()|TBD|
