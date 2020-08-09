@@ -11,7 +11,7 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |6| [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/6.find-all-duplicates-in-array.cpp)|Easy|
 |7| [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/7.vertical-order-traversal.cpp)|Medium|
 |8| [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/8.path-sum-iii.cpp)|Easy|
-|9| [TBD]()|[`C++`]()|TBD|
+|9| [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/)|[`C++`]()|TBD|
 |10| [TBD]()|[`C++`]()|TBD|
 |11| [TBD]()|[`C++`]()|TBD|
 |12| [TBD]()|[`C++`]()|TBD|
