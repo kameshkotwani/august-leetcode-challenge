@@ -14,6 +14,6 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |9| [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/9.rotten-oranges.cpp)|Medium|
 |10| [Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/10.%20excel-sheet-coloumn-number.cpp)|Easy|
 |11| [H-Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/11.h-index.cpp)|Easy|
-|12| [TBD]()|[`C++`]()|TBD|
+|12| [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/)|[`C++`]()|TBD|
 |13| [TBD]()|[`C++`]()|TBD|
 |14| [TBD]()|[`C++`]()|TBD|
