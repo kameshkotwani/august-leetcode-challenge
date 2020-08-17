@@ -18,7 +18,7 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |13| [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/iterator-for-combination.cpp)|Medium|
 |14| [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/longest-palindrome.cpp)|Easy|
 |15| [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/non-overlapping-intervals.cpp)|Medium|
-|16| [TBD]()|[`C++`]()|TBD|
+|16| [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)|[`C++`]()|TBD|
 |17| [TBD]()|[`C++`]()|TBD|
 |18| [TBD]()|[`C++`]()|TBD|
 |19| [TBD]()|[`C++`]()|TBD|
