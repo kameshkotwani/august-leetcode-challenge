@@ -19,8 +19,8 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |14| [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/longest-palindrome.cpp)|Easy|
 |15| [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/non-overlapping-intervals.cpp)|Medium|
 |16| [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/buy-and-sell-stock-iii.cpp)|Medium|
-|17| [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|[`C++`]()|TBD|
-|18| [TBD]()|[`C++`]()|TBD|
+|17| [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/distribute-candies-to-people.cpp)|TBD|
+|18| [Numbers With Same Consecutive Differences](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)|[`C++`]()|TBD|
 |19| [TBD]()|[`C++`]()|TBD|
 |20| [TBD]()|[`C++`]()|TBD|
 |21| [TBD]()|[`C++`]()|TBD|
