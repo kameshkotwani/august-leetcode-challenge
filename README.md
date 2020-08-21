@@ -22,5 +22,9 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |17| [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/distribute-candies-to-people.cpp)|TBD|
 |18| [Numbers With Same Consecutive Differences](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/consecutive-numbers.cpp)|Medium|
 |19| [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/goat-latin.cpp)|Easy|
-|20| [TBD]()|[`C++`]()|TBD|
+|20| [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/reorder-list.cpp)|Easy|
 |21| [TBD]()|[`C++`]()|TBD|
+|22| [TBD]()|[`C++`]()|TBD|
+|23| [TBD]()|[`C++`]()|TBD|
+|24| [TBD]()|[`C++`]()|TBD|
+|25| [TBD]()|[`C++`]()|TBD|
