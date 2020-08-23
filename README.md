@@ -24,7 +24,7 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |19| [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/goat-latin.cpp)|Easy|
 |20| [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/reorder-list.cpp)|Easy|
 |21| [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/sort-array-by-parity.cpp)|Easy|
-|22| [TBD]()|[`C++`]()|TBD|
+|22| [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/random-non-overlapping.cpp)|Medium|
 |23| [TBD]()|[`C++`]()|TBD|
 |24| [TBD]()|[`C++`]()|TBD|
 |25| [TBD]()|[`C++`]()|TBD|
