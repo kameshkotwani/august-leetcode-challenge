@@ -26,5 +26,11 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |21| [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/sort-array-by-parity.cpp)|Easy|
 |22| [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/random-non-overlapping.cpp)|Medium|
 |23| [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/stream-of-characters.cpp)|Medium|
-|24| [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)|[`C++`]()|TBD|
+|24| [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/sum-of-left-leaves.cpp)|Easy|
 |25| [TBD]()|[`C++`]()|TBD|
+|26| [TBD]()|[`C++`]()|TBD|
+|27| [TBD]()|[`C++`]()|TBD|
+|28| [TBD]()|[`C++`]()|TBD|
+|29| [TBD]()|[`C++`]()|TBD|
+|30| [TBD]()|[`C++`]()|TBD|
+|31| [TBD]()|[`C++`]()|TBD|
