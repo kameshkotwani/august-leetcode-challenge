@@ -27,7 +27,7 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |22| [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/random-non-overlapping.cpp)|Medium|
 |23| [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/stream-of-characters.cpp)|Medium|
 |24| [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/sum-of-left-leaves.cpp)|Easy|
-|25| [TBD]()|[`C++`]()|TBD|
+|25| [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/minimum-costs-for-tickets.cpp)|Medium|
 |26| [TBD]()|[`C++`]()|TBD|
 |27| [TBD]()|[`C++`]()|TBD|
 |28| [TBD]()|[`C++`]()|TBD|
