@@ -29,8 +29,8 @@ Questions appear at 12:30 IST and have reward validity for 24 hours.
 |24| [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/sum-of-left-leaves.cpp)|Easy|
 |25| [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/minimum-costs-for-tickets.cpp)|Medium|
 |26| [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/fizzbuzz.cpp)|Easy|
-|27| [TBD]()|[`C++`]()|TBD|
-|28| [TBD]()|[`C++`]()|TBD|
+|27| [Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/)|[`C++`](https://github.com/kameshkotwani/august-leetcode-challenge/blob/master/find-right-interval.cpp)|Medium|
+|28| [Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)|[`C++`]()|TBD|
 |29| [TBD]()|[`C++`]()|TBD|
 |30| [TBD]()|[`C++`]()|TBD|
 |31| [TBD]()|[`C++`]()|TBD|
